@@ -12,7 +12,3 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
  # Here is a new update by vm0303
 print("Taxes")
-
-# Here is another update by vm0303
-BAD Code! 
-
